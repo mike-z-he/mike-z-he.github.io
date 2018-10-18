@@ -9,3 +9,18 @@ And I can put all kinds of stuff on it!
 I can add additional text
 
 I *could* write some text but I'm not going to
+
+
+### Add some links
+
+I like [to look for code on the internet](https://google.com).
+
+I can link directly to my [about page](about.html).
+
+
+### Picture of my dog
+
+Ain't she great:
+
+<img src="images/image.jpg" style="width:75%">
+
