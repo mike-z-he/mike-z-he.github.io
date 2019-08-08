@@ -2,13 +2,21 @@
 title: "Mike He"
 ---
 
-### I have a webpage!
+#### PhD Candidate
+#### Environmental Health Sciences
+##### Mailman School of Public Health
+##### Columbia University
 
-And I can put all kinds of stuff on it!
+<br>
+<p align = "center">
+<img src="images/Mike_He.jpg" style="width:60%; border:10px solid">
+</p>
+<br>
 
-I can add additional text
+### About
+I received a BA in Public Health Studies and Earth & Planetary Sciences from [Johns Hopkins University](https://www.jhu.edu/) in 2014 and an MHS in Environmental Health Sciences from the [Johns Hopkins Bloomberg School of Public Health](https://ehe.jhu.edu/).
 
-I *could* write some text but I'm not going to
+I am a fifth year doctoral student in the department 
 
 
 ### Add some links
@@ -18,21 +26,4 @@ I like [to look for code on the internet](https://google.com).
 I can link directly to my [about page](about.html).
 
 
-### Picture of my dog
-
-Ain't she great:
-
-<img src="images/image.jpg" style="width:75%">
-
-
-## I can add code
-
-```{r}
-library(tidyverse)
-
-tibble(
-  x = 1:10,
-  y = x + 2
-)
-```
 
