@@ -5,6 +5,8 @@ navbar:
   right:
     - text: "Publications"
       href: publications.html
+    - text: "Personal"
+      href: personal.html      
     - icon: fa-google fa-lg
       href: https://scholar.google.com/citations?user=9tAIsdwAAAAJ&hl=en
     - icon: fa-linkedin-square fa-lg
