@@ -2,15 +2,18 @@ name: "Mike's Website"
 output_dir: "."
 navbar:
   title: "Home"
-  right:
+  left:
     - text: "Publications"
       href: publications.html
     - text: "Personal"
-      href: personal.html      
+      href: personal.html 
+  right:
     - icon: fa-google fa-lg
       href: https://scholar.google.com/citations?user=9tAIsdwAAAAJ&hl=en
+    - icon: fa-registered fa-lg
+      href: https://www.researchgate.net/profile/Mike_He      
     - icon: fa-linkedin-square fa-lg
-      href: https://www.linkedin.com/in/mike-zhongyu-he-a15a6472/      
+      href: https://www.linkedin.com/in/mike-zhongyu-he-a15a6472/    
     - icon: fa-envelope fa-lg
       href: mailto:<mike.he@cumc.columbia.edu>
     - icon: fa-github fa-lg
