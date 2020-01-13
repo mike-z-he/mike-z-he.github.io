@@ -7,6 +7,8 @@ title: "Publications"
 ### Peer-Reviewed Articles
 
 #### 2019
+Chen C, Li T, Wang L, Qi J, Shi W, **He MZ**, Sun Q, Wang J, Zhu H, Shi X: Short-term Exposure to Fine Particles and Risk of Cause-Specific Mortality – China, 2013-2018. *China CDC Weekly* 1(1): 8-12. 2019.
+
 Jin X, Fiore AM, Civerolo K, Bi J, Liu Y, van Donkelaar A, Martin RV, Al-Hamdan M, Zhang Y, Insaf TZ, Kioumourtzoglou MA, **He MZ**, Kinney PL: Comparison of multiple PM~2.5~ exposure products for estimating health benefits of emission controls over New York State, USA. *Environ Res Lett* 14 084023. 2019.
 
 Westervelt DM, Ma C, **He MZ**, Fiore AM, Kinney PL, Kioumourtzoglou MA, Wang S, Xing J, Ding D, Correa G: Mid-21st century ozone air quality and health burden in China under emissions scenarios and climate change. *Environ Res Lett* 14 074030. 2019.
@@ -42,7 +44,9 @@ Achey MA, **He MZ**, Akst LM: Vocal Hygiene Habits and Vocal Handicap Among Cons
 ### Conference Presentations and Posters
 
 #### 2019
-**He MZ**, Do V, Liu S, Kinney PL, Fiore A, Jin X, DeFelice N, Kioumourtzoglou MA: Short-term PM~2.5~ and cardiovascular admissions in NY State: assessing sensitivity of exposure model choice. Oral Presentation. International Society of Environmental Epidemiology 2019 Conference, Utrecht, Netherlands. August 2019.
+**He MZ**, Kioumourtzoglou M-A, Kinney PL, Fiore A, Jin X, Do V, Liu S, Insaf T, Michalski A: Fine particulate matter and cardiovascular admissions in NY State: an assessment of exposure model choice sensitivity and spatial-temporal effect modification. Oral Presentation. New Applications in the Use of Satellite Data Monitoring for Population Health. Huntsville, Alabama. October 2019.
+
+**He MZ**, Do V, Liu S, Kinney PL, Fiore A, Jin X, DeFelice N, Kioumourtzoglou M-A: Short-term PM~2.5~ and cardiovascular admissions in NY State: assessing sensitivity of exposure model choice. Oral Presentation. International Society for Environmental Epidemiology 2019 Conference, Utrecht, Netherlands. August 2019.
 
 **He MZ**, Kioumourtzoglou M-A, Kinney PL, Fiore A, Jin X, Do V, Liu S, Insaf T, Michalski A: Fine particulate matter and respiratory admissions: an assessment of short-term exposure model choice sensitivity for health studies. Oral Presentation. NASA Health and Air Quality Applied Sciences Team 6th Biannual Meeting, Pasadena, California. July 2019.
 
@@ -57,9 +61,9 @@ Westervelt D, Ma CT, Fiore AM, Kinney PL, **He MZ**, Xing J, Wang S: The impact 
 
 **He MZ**, Li T, Kinney PL, Chen C, Sun Q, Ban J, Wang J, Liu S, Goldsmith J, Kioumourtzoglou M-A: Short- and Intermediate-Term Exposure to NO2 and Mortality: A Multi-County Analysis. Oral Presentation. Columbia University Air Pollution Extremes Workshop, New York, New York. November 2018.
 
-Du Z, **He MZ**, Ban J, Wang Q, Li T. The Research on National Heat Vulnerability Assessment of China. Poster Presentation. International Society of Environmental Epidemiology-Exposure Sciences 2018 Conference, Ottawa, Canada. August 2018.
+Du Z, **He MZ**, Ban J, Wang Q, Li T. The Research on National Heat Vulnerability Assessment of China. Poster Presentation. International Society for Environmental Epidemiology-Exposure Sciences 2018 Conference, Ottawa, Canada. August 2018.
 
-**He MZ**, Li T, Kinney PL, Kioumourtzoglou M-A: Short- and Intermediate-Term Exposure to NO~2~ and Mortality in 42 Chinese Counties. Poster Presentation. International Society of Environmental Epidemiology-Exposure Sciences Asia Chapter 2018 Conference, Taipei, Taiwan. June 2018.
+**He MZ**, Li T, Kinney PL, Kioumourtzoglou M-A: Short- and Intermediate-Term Exposure to NO~2~ and Mortality in 42 Chinese Counties. Poster Presentation. International Society for Environmental Epidemiology-Exposure Sciences Asia Chapter 2018 Conference, Taipei, Taiwan. June 2018.
 
 #### 2017 and before
 
@@ -69,9 +73,9 @@ Jin X, Fiore A, Civerolo K, Ku M, Insaf T, Kinney PL, Kioumourtzoglou M-A, **He 
 
 **He MZ**, Kioumourtzoglou M-A, Kinney PL, Fiore A, Jin X, Insaf T, Michalski A: Associations between Air Pollution and Hospital Admissions in New York State. Oral Presentation. NASA Health and Air Quality Applied Sciences Team 3rd Biannual Meeting, Palisades, New York. November 2017.
 
-Wang Q, Wang J, **He MZ**, Kinney PL, Li T: A county-level estimate of PM~2.5~ related chronic mortality risk in China based on multi-model exposure data. Oral Presentation. International Society of Environmental Epidemiology 2017 Conference, Sydney, Australia. September 2017.
+Wang Q, Wang J, **He MZ**, Kinney PL, Li T: A county-level estimate of PM~2.5~ related chronic mortality risk in China based on multi-model exposure data. Oral Presentation. International Society for Environmental Epidemiology 2017 Conference, Sydney, Australia. September 2017.
 
-**He MZ**, Li T, Kinney PL, Kioumourtzoglou M-A: Short- and Intermediate-Term Exposure to NO~2~ and Mortality: A Multi-County Analysis in China. Poster Presentation. International Society of Environmental Epidemiology 2017 Conference, Sydney, Australia. September 2017.
+**He MZ**, Li T, Kinney PL, Kioumourtzoglou M-A: Short- and Intermediate-Term Exposure to NO~2~ and Mortality: A Multi-County Analysis in China. Poster Presentation. International Society for Environmental Epidemiology 2017 Conference, Sydney, Australia. September 2017.
 
 **He MZ**, Zeng X, Zhang K, Kinney PL: Regional Differences in Fine Particulate Matter Concentrations in Urban Chinese Cities: A Systematic Review. Oral Presentation. 2016 Symposium on Public Health in Asia, Baltimore, Maryland. February 2016.
 
