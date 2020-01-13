@@ -25,6 +25,5 @@ Mike He <br>
 [Columbia University Mailman School of Public Health](https://www.mailman.columbia.edu/)<br>
 722 West 168th Street, Suite 1104<br>
 New York, New York 10032<br>
-Email: [mike.he@columbia.edu](mailto:<zh2263@cumc.columbia.edu>)
-
-
+Email: [mike.he@columbia.edu](mailto:<zh2263@cumc.columbia.edu>)<br>
+<img src="images/makLab_logo.jpg" style="width:15%">
