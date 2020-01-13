@@ -8,9 +8,11 @@ navbar:
     - text: "Personal"
       href: personal.html 
   right:
-    - icon: fa-google fa-lg
+    - icon: ai-cv ai-lg
+      href: cv_he.pdf
+    - icon: ai-google-scholar ai-lg
       href: https://scholar.google.com/citations?user=9tAIsdwAAAAJ&hl=en
-    - icon: fa-registered fa-lg
+    - icon: ai-researchgate ai-lg
       href: https://www.researchgate.net/profile/Mike_He      
     - icon: fa-linkedin-square fa-lg
       href: https://www.linkedin.com/in/mike-zhongyu-he-a15a6472/    
@@ -20,4 +22,6 @@ navbar:
       href: https://github.com/mike-z-he/mike-z-he.github.io.git/
 output:
   html_document:
+    include:
+      in_header: header.html
     theme: flatly
