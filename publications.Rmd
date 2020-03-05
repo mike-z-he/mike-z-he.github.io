@@ -6,12 +6,18 @@ title: "Publications"
 
 ### Peer-Reviewed Articles
 
+#### 2020
+**He MZ**, Kinney PL, Li T, Chen C, Sun Q, Ban J, Wang J, Liu S, Goldsmith J, M-A Kioumourtzoglou: Short- and intermediate-term exposure NO2 and mortality: A multi-county analysis in China. *Environmental Pollution* 261: 114165. 2020.
+
+Zhang Y, Li T, Ma R, Yin Z, Wang J, **He MZ**, Xu D, Gao X, Wang Q, Kraus VB, Lv Y, Zhong Y, Kinney PL, Shi X: Long-term exposure to ambient fine particulate matter and fasting blood glucose level in a Chinese elderly cohort. *Science of the Total Environment* 717: 137191. 2020.
+
+
 #### 2019
 Chen C, Li T, Wang L, Qi J, Shi W, **He MZ**, Sun Q, Wang J, Zhu H, Shi X: Short-term Exposure to Fine Particles and Risk of Cause-Specific Mortality – China, 2013-2018. *China CDC Weekly* 1(1): 8-12. 2019.
 
-Jin X, Fiore AM, Civerolo K, Bi J, Liu Y, van Donkelaar A, Martin RV, Al-Hamdan M, Zhang Y, Insaf TZ, Kioumourtzoglou MA, **He MZ**, Kinney PL: Comparison of multiple PM~2.5~ exposure products for estimating health benefits of emission controls over New York State, USA. *Environ Res Lett* 14 084023. 2019.
+Jin X, Fiore AM, Civerolo K, Bi J, Liu Y, van Donkelaar A, Martin RV, Al-Hamdan M, Zhang Y, Insaf TZ, Kioumourtzoglou M-A, **He MZ**, Kinney PL: Comparison of multiple PM~2.5~ exposure products for estimating health benefits of emission controls over New York State, USA. *Environ Res Lett* 14 084023. 2019.
 
-Westervelt DM, Ma C, **He MZ**, Fiore AM, Kinney PL, Kioumourtzoglou MA, Wang S, Xing J, Ding D, Correa G: Mid-21st century ozone air quality and health burden in China under emissions scenarios and climate change. *Environ Res Lett* 14 074030. 2019.
+Westervelt DM, Ma C, **He MZ**, Fiore AM, Kinney PL, Kioumourtzoglou M-A, Wang S, Xing J, Ding D, Correa G: Mid-21st century ozone air quality and health burden in China under emissions scenarios and climate change. *Environ Res Lett* 14 074030. 2019.
 
 Yang Y, **He MZ**, Li T, Yang X: MRI combined with PET-CT of different tracers to improve the accuracy of glioma diagnosis: a systematic review and meta-analysis. *Neurosurg Rev* 42: 185-195. 2019.
 
@@ -56,6 +62,7 @@ Jin X, Fiore AM, Civerolo K, Johnson S, Bi J, Liu Y, van Donkelaar A, Martin R, 
 
 Jin X, Fiore A, Civerolo K, Johnson S, Bi J, Liu Y, Martin R, van Donkelaar A, Zhang Y, Kinney PL, Kioumourtzoglou M-A, **He MZ**: Quantifying health benefits of emission reduction over New York State using multiple PM~2.5~ products. Oral Presentation. NASA Health and Air Quality Applied Sciences Team 5th Biannual Meeting, Phoenix, Arizona. January 2019.
 
+
 #### 2018
 Westervelt D, Ma CT, Fiore AM, Kinney PL, **He MZ**, Xing J, Wang S: The impact of emissions scenarios and climate change over China on ozone air quality in China and the United States. Oral Presentation. American Geophysical Union 2016 Fall Meeting, Washington DC. December 2018.
 
@@ -64,6 +71,7 @@ Westervelt D, Ma CT, Fiore AM, Kinney PL, **He MZ**, Xing J, Wang S: The impact 
 Du Z, **He MZ**, Ban J, Wang Q, Li T. The Research on National Heat Vulnerability Assessment of China. Poster Presentation. International Society for Environmental Epidemiology-Exposure Sciences 2018 Conference, Ottawa, Canada. August 2018.
 
 **He MZ**, Li T, Kinney PL, Kioumourtzoglou M-A: Short- and Intermediate-Term Exposure to NO~2~ and Mortality in 42 Chinese Counties. Poster Presentation. International Society for Environmental Epidemiology-Exposure Sciences Asia Chapter 2018 Conference, Taipei, Taiwan. June 2018.
+
 
 #### 2017 and before
 
