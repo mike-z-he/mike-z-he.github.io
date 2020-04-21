@@ -7,43 +7,45 @@ title: "Publications"
 ### Peer-Reviewed Articles
 
 #### 2020
-**He MZ**, Kinney PL, Li T, Chen C, Sun Q, Ban J, Wang J, Liu S, Goldsmith J, M-A Kioumourtzoglou: Short- and intermediate-term exposure NO2 and mortality: A multi-county analysis in China. *Environmental Pollution* 261: 114165. 2020.
+Fang X, Liu W, Ai J, **He M**, Wu Y, Shi Y, Shen W, Bao C: Forecasting incidence of infectious diarrhea using random forest in Jiangsu Province, China. *BMC Infectious Diseases* 20:222. 2020. [[Link](https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-020-4930-2)]
 
-Zhang Y, Li T, Ma R, Yin Z, Wang J, **He MZ**, Xu D, Gao X, Wang Q, Kraus VB, Lv Y, Zhong Y, Kinney PL, Shi X: Long-term exposure to ambient fine particulate matter and fasting blood glucose level in a Chinese elderly cohort. *Science of the Total Environment* 717: 137191. 2020.
+**He MZ**, Kinney PL, Li T, Chen C, Sun Q, Ban J, Wang J, Liu S, Goldsmith J, M-A Kioumourtzoglou: Short- and intermediate-term exposure NO2 and mortality: A multi-county analysis in China. *Environmental Pollution* 261: 114165. 2020. [[Link](https://www.sciencedirect.com/science/article/pii/S0269749119330106)]
+
+Zhang Y, Li T, Ma R, Yin Z, Wang J, **He MZ**, Xu D, Gao X, Wang Q, Kraus VB, Lv Y, Zhong Y, Kinney PL, Shi X: Long-term exposure to ambient fine particulate matter and fasting blood glucose level in a Chinese elderly cohort. *Science of the Total Environment* 717: 137191. 2020. [[Link](https://www.sciencedirect.com/science/article/pii/S0048969720307014)]
 
 
 #### 2019
-Chen C, Li T, Wang L, Qi J, Shi W, **He MZ**, Sun Q, Wang J, Zhu H, Shi X: Short-term Exposure to Fine Particles and Risk of Cause-Specific Mortality – China, 2013-2018. *China CDC Weekly* 1(1): 8-12. 2019.
+Chen C, Li T, Wang L, Qi J, Shi W, **He MZ**, Sun Q, Wang J, Zhu H, Shi X: Short-term Exposure to Fine Particles and Risk of Cause-Specific Mortality – China, 2013-2018. *China CDC Weekly* 1(1): 8-12. 2019. [[Link](http://weekly.chinacdc.cn/en/article/id/2939b465-e86f-4ea1-a965-de1c2039eed4)]
 
-Jin X, Fiore AM, Civerolo K, Bi J, Liu Y, van Donkelaar A, Martin RV, Al-Hamdan M, Zhang Y, Insaf TZ, Kioumourtzoglou M-A, **He MZ**, Kinney PL: Comparison of multiple PM~2.5~ exposure products for estimating health benefits of emission controls over New York State, USA. *Environ Res Lett* 14 084023. 2019.
+Jin X, Fiore AM, Civerolo K, Bi J, Liu Y, van Donkelaar A, Martin RV, Al-Hamdan M, Zhang Y, Insaf TZ, Kioumourtzoglou M-A, **He MZ**, Kinney PL: Comparison of multiple PM~2.5~ exposure products for estimating health benefits of emission controls over New York State, USA. *Environ Res Lett* 14 084023. 2019. [[Link](https://iopscience.iop.org/article/10.1088/1748-9326/ab2dcb)]
 
-Westervelt DM, Ma C, **He MZ**, Fiore AM, Kinney PL, Kioumourtzoglou M-A, Wang S, Xing J, Ding D, Correa G: Mid-21st century ozone air quality and health burden in China under emissions scenarios and climate change. *Environ Res Lett* 14 074030. 2019.
+Westervelt DM, Ma C, **He MZ**, Fiore AM, Kinney PL, Kioumourtzoglou M-A, Wang S, Xing J, Ding D, Correa G: Mid-21st century ozone air quality and health burden in China under emissions scenarios and climate change. *Environ Res Lett* 14 074030. 2019. [[Link](https://iopscience.iop.org/article/10.1088/1748-9326/ab260b)]
 
-Yang Y, **He MZ**, Li T, Yang X: MRI combined with PET-CT of different tracers to improve the accuracy of glioma diagnosis: a systematic review and meta-analysis. *Neurosurg Rev* 42: 185-195. 2019.
+Yang Y, **He MZ**, Li T, Yang X: MRI combined with PET-CT of different tracers to improve the accuracy of glioma diagnosis: a systematic review and meta-analysis. *Neurosurg Rev* 42: 185-195. 2019. [[Link](https://link.springer.com/article/10.1007/s10143-017-0906-0)]
 
-Li T, Guo Y, Liu Y, Wang J, Wang Q, Sun Z, **He MZ**, Shi X: Estimating mortality burden attributable to short-term PM~2.5~ exposure: A national observational study in China. *Environment International* 125: 245-251. 2019.
+Li T, Guo Y, Liu Y, Wang J, Wang Q, Sun Z, **He MZ**, Shi X: Estimating mortality burden attributable to short-term PM~2.5~ exposure: A national observational study in China. *Environment International* 125: 245-251. 2019. [[Link](https://www.sciencedirect.com/science/article/pii/S0160412018327739)]
 
 
 #### 2018
-Chen C, Xu D, **He MZ**, Wang Y, Du Z, Du Y, Qian Y, Ji D, Li T: Fine particulate constituents and mortality: a time-series study in Beijing, China. *Environ Sci Technol* 52, 11378-11386. 2018.
+Chen C, Xu D, **He MZ**, Wang Y, Du Z, Du Y, Qian Y, Ji D, Li T: Fine particulate constituents and mortality: a time-series study in Beijing, China. *Environ Sci Technol* 52, 11378-11386. 2018. [[Link](https://pubs.acs.org/doi/10.1021/acs.est.8b00424)]
 
-Zhang Y, Cui L, Xu D, **He MZ**, Zhou J, Han L, Li X, Li T: The association of ambient PM~2.5~ with school absence and symptoms in schoolchildren: a panel study. *Pediatric Research* 84: 28-33. 2018.
+Zhang Y, Cui L, Xu D, **He MZ**, Zhou J, Han L, Li X, Li T: The association of ambient PM~2.5~ with school absence and symptoms in schoolchildren: a panel study. *Pediatric Research* 84: 28-33. 2018. [[Link](https://www.nature.com/articles/s41390-018-0004-1)]
 
-Sun Q, Wang W, Chen C, Ban J, Xu D, Zhu P, **He MZ**, Li T: Acute effect of multiple ozone metrics on mortality by season in 34 Chinese counties, 2013-2015. *Journal of Internal Medicine* 283 (5), 481-488. 2018.
+Sun Q, Wang W, Chen C, Ban J, Xu D, Zhu P, **He MZ**, Li T: Acute effect of multiple ozone metrics on mortality by season in 34 Chinese counties, 2013-2015. *Journal of Internal Medicine* 283 (5), 481-488. 2018. [[Link](https://onlinelibrary.wiley.com/doi/abs/10.1111/joim.12724)]
 
-Wang Q, Wang J, **He MZ**, Kinney PL, Li T: A county-level estimate of PM~2.5~ related chronic mortality risk in China based on multi-model exposure data. *Environment International* 110: 105-112. 2018.
+Wang Q, Wang J, **He MZ**, Kinney PL, Li T: A county-level estimate of PM~2.5~ related chronic mortality risk in China based on multi-model exposure data. *Environment International* 110: 105-112. 2018. [[Link](https://www.sciencedirect.com/science/article/pii/S0160412017302969)]
 
 
 #### 2017 and before
-Liu W, **He MZ**, Wang Y, Wang Y, Zhou Y, Wu M, Tang Z, Dai Y, Yuan B, Zhen S, Cheskin LJ: Differences in health-related behaviors between middle school, high school, and college students in Jiangsu province, China. *Asia Pacific J Clin Nutr* 26(4): 731-737, 2017.
+Liu W, **He MZ**, Wang Y, Wang Y, Zhou Y, Wu M, Tang Z, Dai Y, Yuan B, Zhen S, Cheskin LJ: Differences in health-related behaviors between middle school, high school, and college students in Jiangsu province, China. *Asia Pacific J Clin Nutr* 26(4): 731-737, 2017. [[Link](http://apjcn.nhri.org.tw/server/APJCN/26/4/731.pdf)]
 
-Ban J, Xu D, **He MZ**, Sun Q, Chen C, Wang W, Zhu P, Li T: The effect of high temperature on cause-specific mortality: A multi-county analysis in China. *Environment International* 106: 19-26. 2017.
+Ban J, Xu D, **He MZ**, Sun Q, Chen C, Wang W, Zhu P, Li T: The effect of high temperature on cause-specific mortality: A multi-county analysis in China. *Environment International* 106: 19-26. 2017. [[Link](https://www.sciencedirect.com/science/article/pii/S0160412017302520?via%3Dihub)]
 
-**He MZ**, Zeng X, Zhang K, Kinney PL: Fine Particulate Matter Concentrations in Urban Chinese Cities, 2005-2016: A Systematic Review. *Int J Environ Res Public Health* 14(2), 191. 2017. 
+**He MZ**, Zeng X, Zhang K, Kinney PL: Fine Particulate Matter Concentrations in Urban Chinese Cities, 2005-2016: A Systematic Review. *Int J Environ Res Public Health* 14(2), 191. 2017. [[Link](https://www.mdpi.com/1660-4601/14/2/191)]
 
-Ban J, Huang L, Chen C, Guo Y, **He MZ**, Li T: Integrating new indicators of predictors that shape the public’s perception of local extreme temperature in China. *Science of the Total Environment* 579: 529-536. 2017.
+Ban J, Huang L, Chen C, Guo Y, **He MZ**, Li T: Integrating new indicators of predictors that shape the public’s perception of local extreme temperature in China. *Science of the Total Environment* 579: 529-536. 2017. [[Link](https://www.sciencedirect.com/science/article/pii/S0048969716325037)]
 
-Achey MA, **He MZ**, Akst LM: Vocal Hygiene Habits and Vocal Handicap Among Conservatory Students of Classical Singing. *J of Voice* 30(2): 192-197, 2016.
+Achey MA, **He MZ**, Akst LM: Vocal Hygiene Habits and Vocal Handicap Among Conservatory Students of Classical Singing. *J of Voice* 30(2): 192-197, 2016. [[Link](https://doi.org/10.1016/j.jvoice.2015.02.003)]
 
 <br>
 
