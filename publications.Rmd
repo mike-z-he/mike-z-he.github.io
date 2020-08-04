@@ -7,9 +7,11 @@ title: "Publications"
 ### Peer-Reviewed Articles
 
 #### 2020
+Sun Z, Chen C, Yan M, Shi W, Wang J, Ban J, Sun Q, **He MZ** Li T: Heat wave characteristics, mortality and effect modification by temperature zones: a time-series study in 130 counties of China. *International Journal of Epidemiology* 2020. [[Link](https://academic.oup.com/ije/article/doi/10.1093/ije/dyaa104/5876185)]
+
 Fang X, Liu W, Ai J, **He M**, Wu Y, Shi Y, Shen W, Bao C: Forecasting incidence of infectious diarrhea using random forest in Jiangsu Province, China. *BMC Infectious Diseases* 20:222. 2020. [[Link](https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-020-4930-2)]
 
-**He MZ**, Kinney PL, Li T, Chen C, Sun Q, Ban J, Wang J, Liu S, Goldsmith J, M-A Kioumourtzoglou: Short- and intermediate-term exposure NO2 and mortality: A multi-county analysis in China. *Environmental Pollution* 261: 114165. 2020. [[Link](https://www.sciencedirect.com/science/article/pii/S0269749119330106)]
+**He MZ**, Kinney PL, Li T, Chen C, Sun Q, Ban J, Wang J, Liu S, Goldsmith J, M-A Kioumourtzoglou: Short- and intermediate-term exposure NO~2~ and mortality: A multi-county analysis in China. *Environmental Pollution* 261: 114165. 2020. [[Link](https://www.sciencedirect.com/science/article/pii/S0269749119330106)]
 
 Zhang Y, Li T, Ma R, Yin Z, Wang J, **He MZ**, Xu D, Gao X, Wang Q, Kraus VB, Lv Y, Zhong Y, Kinney PL, Shi X: Long-term exposure to ambient fine particulate matter and fasting blood glucose level in a Chinese elderly cohort. *Science of the Total Environment* 717: 137191. 2020. [[Link](https://www.sciencedirect.com/science/article/pii/S0048969720307014)]
 
