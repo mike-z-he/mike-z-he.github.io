@@ -22,6 +22,6 @@ navbar:
       href: https://github.com/mike-z-he/mike-z-he.github.io.git/
 output:
   html_document:
+    theme: flatly
     include:
       in_header: header.html
-    theme: flatly
