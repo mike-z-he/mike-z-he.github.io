@@ -6,7 +6,7 @@ navbar:
     - text: "Publications"
       href: publications.html
     - text: "Teaching"
-      href: publications.html
+      href: teaching.html
     - text: "Personal"
       href: personal.html 
   right:
