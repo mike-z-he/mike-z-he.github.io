@@ -5,6 +5,8 @@ navbar:
   left:
     - text: "Publications"
       href: publications.html
+    - text: "Teaching"
+      href: publications.html
     - text: "Personal"
       href: personal.html 
   right:
@@ -17,7 +19,7 @@ navbar:
     - icon: fa-linkedin-square fa-lg
       href: https://www.linkedin.com/in/mike-zhongyu-he-a15a6472/    
     - icon: fa-envelope fa-lg
-      href: mailto:<mike.he@cumc.columbia.edu>
+      href: mailto:<mike.he@mssm.edu>
     - icon: fa-github fa-lg
       href: https://github.com/mike-z-he/mike-z-he.github.io.git/
 output:

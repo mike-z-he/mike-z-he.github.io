@@ -2,10 +2,9 @@
 title: "Mike Z He"
 ---
 
-#### PhD Candidate
-#### Environmental Health Sciences
-##### Mailman School of Public Health
-##### Columbia University
+#### Postdoctoral Fellow
+##### Environmental Medicine and Public Health
+##### Icahn School of Medicine at Mount Sinai
 
 <br>
 <p align = "center">
@@ -14,16 +13,21 @@ title: "Mike Z He"
 <br>
 
 ### About
-I received a BA in Public Health Studies and Earth & Planetary Sciences from [Johns Hopkins University](https://www.jhu.edu/) in 2014, an MHS in Environmental Health Sciences from the [Johns Hopkins Bloomberg School of Public Health](https://ehe.jhu.edu/) in 2015, and my PhD in Environmental Health Sciences from Columbia's [Climate and Health Program](https://www.mailman.columbia.edu/research/climate-and-health-program), under the mentorship of Drs. [Marianthi-Anna Kioumourtzoglou](https://www.mailman.columbia.edu/people/our-faculty/mk3961) and [Patrick Kinney](https://www.bu.edu/sph/profile/patrick-kinney/). I will be starting a Postdoctoral Fellow position in the Department of Environmental Medicine and Public Health at the [Icahn School of Medicine at Mount Sinai](https://icahn.mssm.edu/) in September 2020, under the supervision of Dr. [Itai Kloog](https://www.mountsinai.org/profiles/itai-kloog2).<br>
+I received a BA in Public Health Studies and Earth & Planetary Sciences from [Johns Hopkins University](https://www.jhu.edu/) in 2014, an MHS in Environmental Health Sciences from the [Johns Hopkins Bloomberg School of Public Health](https://ehe.jhu.edu/) in 2015, and my PhD in Environmental Health Sciences from Columbia's [Climate and Health Program](https://www.mailman.columbia.edu/research/climate-and-health-program), under the mentorship of Drs. [Marianthi-Anna Kioumourtzoglou](https://www.mailman.columbia.edu/people/our-faculty/mk3961) and [Patrick Kinney](https://www.bu.edu/sph/profile/patrick-kinney/).<br>
 
-My research interests can be largely divided into three areas. First, I am interested in the health effects of air pollution in developing countries, where such studies are currently still lacking. Recently, I have become increasingly involved in utilizing existing satellite data for air pollution health studies, particularly in the assessment of the sensitivity of epidemiologic studies to exposure model choice. Lastly, I am interested in studying the effects of climate change on air pollution, quantifying the health impacts of climate changed-induced air pollution in China and the United States. My CV is available [here](cv_he.pdf).<br><br>
+I am currently a Postdoctoral Fellow position in the Department of Environmental Medicine and Public Health at the [Icahn School of Medicine at Mount Sinai](https://icahn.mssm.edu/) in September 2020, under the supervision of Drs. [Itai Kloog](https://www.mountsinai.org/profiles/itai-kloog2) and [Maayan Yitshak-Sade](https://icahn.mssm.edu/profiles/maayan-yitshak-sade).<br>
+
+My research interests can be largely divided into three areas. First, I am interested in the health effects of air pollution in developing countries, where such studies are currently still lacking. Second, I utilize existing satellite data for air pollution health studies, particularly in the assessment of the sensitivity of epidemiologic studies to exposure model choice. Third, I am interested in studying the effects of climate change on air pollution, quantifying the health impacts of climate changed-induced air pollution in China and the United States.<br>
+
+Recently, my work has been focused more on air pollution exposure modeling and ensemble-based modeling approaches. Current projects include evaluating policy impacts of air pollution levels in New York City and building a fine-scale NO~2~ model over Mexico City.<br>
+
+My CV is available [here](cv_he.pdf).<br><br>
 
 ### Contact Information
 
 Mike Z He <br>
-[Department of Environmental Health Sciences](https://www.mailman.columbia.edu/academics/departments/environmental-health-sciences-ehs)<br>
-[Columbia University Mailman School of Public Health](https://www.mailman.columbia.edu/)<br>
-722 West 168th Street, Suite 1104<br>
-New York, New York 10032<br>
-Email: [mike.he@columbia.edu](mailto:<zh2263@cumc.columbia.edu>)<br>
-<img src="images/makLab_logo.jpg" style="width:15%">
+[Department of Environmental Medicine and Public Health](https://icahn.mssm.edu/about/departments/environmental-public-health)<br>
+[Icahn School of Medicine at Mount Sinai](https://icahn.mssm.edu/)<br>
+1 Gustave L. Levy Place<br>
+New York, New York 10029<br>
+Email: [mike.he@mssm.edu](mailto:<mike.he@mssm.edu>)
