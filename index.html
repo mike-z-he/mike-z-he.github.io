@@ -1,19 +1,10 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
-<head> <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-165822428-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-165822428-1');
-</script>
+<head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
@@ -22,6 +13,7 @@
 
 <title>Mike Z He</title>
 
+<script src="site_libs/header-attrs-2.6/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
@@ -33,11 +25,21 @@
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" />
-<script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>
-<script defer src="https://use.fontawesome.com/releases/v5.0.0/js/v4-shims.js"></script>
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.8/css/all.css" />
+<script defer src="https://use.fontawesome.com/releases/v5.0.7/js/all.js"></script>
+<script defer src="https://use.fontawesome.com/releases/v5.0.7/js/v4-shims.js"></script>
+
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons/css/academicons.min.css">
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -83,6 +85,7 @@ h6 {
   text-align: left;
 }
 </style>
+
 
 
 
@@ -247,6 +250,7 @@ $(document).ready(function () {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -304,7 +308,7 @@ $(document).ready(function () {
   </a>
 </li>
 <li>
-  <a href="https://scholar.google.com/citations?user=9tAIsdwAAAAJ&amp;hl=en">
+  <a href="https://scholar.google.com/citations?user=FvCDjaIAAAAJ&amp;hl=en">
     <span class="ai ai-google-scholar ai-lg"></span>
      
   </a>
@@ -317,19 +321,19 @@ $(document).ready(function () {
 </li>
 <li>
   <a href="https://www.linkedin.com/in/mike-zhongyu-he-a15a6472/">
-    <span class="fa fa-linkedin-square fa-lg"></span>
+    <span class="fa fa fa fa-linkedin-square fa-lg"></span>
      
   </a>
 </li>
 <li>
   <a href="mailto:&lt;mike.he@mssm.edu&gt;">
-    <span class="fa fa-envelope fa-lg"></span>
+    <span class="fas fa-envelope fa-lg"></span>
      
   </a>
 </li>
 <li>
   <a href="https://github.com/mike-z-he/mike-z-he.github.io.git/">
-    <span class="fa fa-github fa-lg"></span>
+    <span class="fa fa fa fa-github fa-lg"></span>
      
   </a>
 </li>
@@ -383,7 +387,7 @@ $(document).ready(function () {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
