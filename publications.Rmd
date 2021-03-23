@@ -9,11 +9,11 @@ title: "Publications"
 #### 2021
 Ma R, Ban J, Wang Q, Zhang Y, Yang Y, **He MZ**, Li S, Li S, Shi W, Li T: Random Forest Model based Fine Scale Spatiotemporal O~3~ Trends in the Beijing-Tianjin-Hebei region in China, 2010 to 2017. *Environmental Pollution* 116635. 2021. [[Link](https://www.sciencedirect.com/science/article/abs/pii/S026974912100213X)]
 
-Liu S, Xing J, Westervelt DM, Liu S, Ding D, Fiore AM, Kinney PL, Zhang Y, **He MZ*,** Zhang H, Sahu SK, Zhang F, Zhao B, Wang S: Role of emission controls in reducing the 2050 climate change penalty for PM~2.5~ in China. *Science of the Total Environment* 765: 144338. 2021. [[Link](https://www.sciencedirect.com/science/article/abs/pii/S0048969720378694)]
+Liu S, Xing J, Westervelt DM, Liu S, Ding D, Fiore AM, Kinney PL, Zhang Y, **He MZ**, Zhang H, Sahu SK, Zhang F, Zhao B, Wang S: Role of emission controls in reducing the 2050 climate change penalty for PM~2.5~ in China. *Science of the Total Environment* 765: 144338. 2021. [[Link](https://www.sciencedirect.com/science/article/abs/pii/S0048969720378694)]
 
 
 #### 2020
-Sun Z, Chen C, Yan M, Shi W, Wang J, Ban J, Sun Q, **He MZ** Li T: Heat wave characteristics, mortality and effect modification by temperature zones: a time-series study in 130 counties of China. *International Journal of Epidemiology* 2020. [[Link](https://academic.oup.com/ije/article/doi/10.1093/ije/dyaa104/5876185)]
+Sun Z, Chen C, Yan M, Shi W, Wang J, Ban J, Sun Q, **He MZ**, Li T: Heat wave characteristics, mortality and effect modification by temperature zones: a time-series study in 130 counties of China. *International Journal of Epidemiology* 2020. [[Link](https://academic.oup.com/ije/article/doi/10.1093/ije/dyaa104/5876185)]
 
 Fang X, Liu W, Ai J, **He M**, Wu Y, Shi Y, Shen W, Bao C: Forecasting incidence of infectious diarrhea using random forest in Jiangsu Province, China. *BMC Infectious Diseases* 20:222. 2020. [[Link](https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-020-4930-2)]
 
