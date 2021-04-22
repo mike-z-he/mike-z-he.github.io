@@ -8,7 +8,11 @@ navbar:
     - text: "Teaching"
       href: teaching.html
     - text: "Personal"
-      href: personal.html 
+      href: personal.html
+    - text: "Performances"
+      href: performances.html
+    - text: "Repertoire"
+      href: repertoire.html
   right:
     - icon: ai-cv ai-lg
       href: cv_he.pdf
