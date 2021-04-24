@@ -19,9 +19,9 @@ I am currently a Postdoctoral Fellow in the Department of Environmental Medicine
 
 My research interests can be largely divided into three areas. First, I am interested in the health effects of air pollution in developing countries, where such studies are currently still lacking. Second, I utilize existing satellite data for air pollution health studies, particularly in the assessment of the sensitivity of epidemiologic studies to exposure model choice. Third, I am interested in studying the effects of climate change on air pollution, quantifying the health impacts of climate changed-induced air pollution in China and the United States.<br>
 
-Recently, my work has been focused more on air pollution exposure modeling and ensemble-based modeling approaches. Current projects include evaluating policy impacts of air pollution levels in New York City and building a fine-scale NO~2~ model over Mexico City.<br>
+Recently, my work has been focused more on air pollution exposure modeling and ensemble-based modeling approaches. Current projects include evaluating policy impacts of air pollution levels in New York City and building a fine-scale NO~2~ model over Mexico City. My CV is available [here](cv_he.pdf).<br>
 
-My CV is available [here](cv_he.pdf).<br><br>
+Outside of research, I am an avid opera/oratorio singer and classical music enthusiast. More info can be found in the [Performances](https://mikezhe.com/performances.html) and [Repertoire](https://mikezhe.com/repertoire.html) tabs. <br><br>
 
 ### Contact Information
 
