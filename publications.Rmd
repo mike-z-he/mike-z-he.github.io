@@ -7,13 +7,17 @@ title: "Publications"
 ### Peer-Reviewed Articles
 
 #### 2021
-Ma R, Ban J, Wang Q, Zhang Y, Yang Y, **He MZ**, Li S, Li S, Shi W, Li T: Random Forest Model based Fine Scale Spatiotemporal O~3~ Trends in the Beijing-Tianjin-Hebei region in China, 2010 to 2017. *Environmental Pollution* 116635. 2021. [[Link](https://www.sciencedirect.com/science/article/abs/pii/S026974912100213X)]
+**He MZ**, Do V, Liu S, Kinney PL, Fiore AM, Jin X, DeFelice N, Bi J, Liu Y, Insaf TZ, Kioumourtzoglou M-A: Short-term PM~2.5~ and cardiovascular admissions in NY State: assessing sensitivity to exposure model choice. *Environmental Health* 20:93. 2021. [[Link](https://ehjournal.biomedcentral.com/articles/10.1186/s12940-021-00782-3)]
+
+Ban J, Sun Y, Zhang Y, **He MZ**, Sun Q, Chen C, Li T: Changes in Public Perception and Behaviors under Compound Heatwave in COVID-19 Epidemic – Beijing, China, 2020. *China CDC Weekly* 3(32): 675-682. 2021. [[Link](http://weekly.chinacdc.cn/en/article/doi/10.46234/ccdcw2021.170)]
+
+Ma R, Ban J, Wang Q, Zhang Y, Yang Y, **He MZ**, Li S, Shi W, Li T: Random Forest Model based Fine Scale Spatiotemporal O~3~ Trends in the Beijing-Tianjin-Hebei region in China, 2010 to 2017. *Environmental Pollution* 116635. 2021. [[Link](https://www.sciencedirect.com/science/article/abs/pii/S026974912100213X)]
 
 Liu S, Xing J, Westervelt DM, Liu S, Ding D, Fiore AM, Kinney PL, Zhang Y, **He MZ**, Zhang H, Sahu SK, Zhang F, Zhao B, Wang S: Role of emission controls in reducing the 2050 climate change penalty for PM~2.5~ in China. *Science of the Total Environment* 765: 144338. 2021. [[Link](https://www.sciencedirect.com/science/article/abs/pii/S0048969720378694)]
 
 
 #### 2020
-Sun Z, Chen C, Yan M, Shi W, Wang J, Ban J, Sun Q, **He MZ**, Li T: Heat wave characteristics, mortality and effect modification by temperature zones: a time-series study in 130 counties of China. *International Journal of Epidemiology* 2020. [[Link](https://academic.oup.com/ije/article/doi/10.1093/ije/dyaa104/5876185)]
+Sun Z, Chen C, Yan M, Shi W, Wang J, Ban J, Sun Q, **He MZ**, Li T: Heat wave characteristics, mortality and effect modification by temperature zones: a time-series study in 130 counties of China. *International Journal of Epidemiology* 49(6): 1813-1822. 2020. [[Link](https://academic.oup.com/ije/article/doi/10.1093/ije/dyaa104/5876185)]
 
 Fang X, Liu W, Ai J, **He M**, Wu Y, Shi Y, Shen W, Bao C: Forecasting incidence of infectious diarrhea using random forest in Jiangsu Province, China. *BMC Infectious Diseases* 20:222. 2020. [[Link](https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-020-4930-2)]
 
@@ -59,10 +63,15 @@ Achey MA, **He MZ**, Akst LM: Vocal Hygiene Habits and Vocal Handicap Among Cons
 
 ### Conference Presentations and Posters
 
-#### 2020
-**He MZ**, Kinney PL, Fiore AM, Do V, Jin X, Liu S, DeFelice N, Bi J, Liu Y, Insaf T, Kioumourtzoglou M-A: Short-term PM2.5 and cardiovascular admissions in NY State: assessing sensitivity to exposure model choice. Oral Presentation. American Geophysical Union 2017 Fall Meeting (online). December 2020.
+#### 2021
+Wang Y, Du Y, Fang J, Dong X, Wang Q, Ban J, Sun Q, Ma R, **He MZ**, Chen R, Kan H, Li T: A Random Forest Model for PM~2.5~ Personal Exposure Assessment for a Chinese Cohort. Oral Presentation. International Society for Environmental Epidemiology 2021 Conference (online). August 2021.
 
-Zhang L, **He MZ**, Perera F, Lovasi G, Clougherty J, Carrión D, Burke K, Kioumourtzoglou M-A: Evaluating the impact of the Clean Heat Program on air pollution levels in New York City. Poster Presentation. International Society for Environmental Epidemiology 2019 Conference (online). August 2020.
+**He MZ**, Kloog I, Just AC, Gutiérrez-Avila I, Colicino E, Téllez-Rojo MM, Pizano-Zárate M, Tamayo-Ortiz M, Baccarelli AA, Wright RO, Yitshak-Sade M: Associations between air pollution and temperature on glycated hemoglobin levels in women of child bearing age. Oral Presentation. International Society for Environmental Epidemiology 2021 Conference (online). August 2021.
+
+#### 2020
+**He MZ**, Kinney PL, Fiore AM, Do V, Jin X, Liu S, DeFelice N, Bi J, Liu Y, Insaf T, Kioumourtzoglou M-A: Short-term PM~2.5~ and cardiovascular admissions in NY State: assessing sensitivity to exposure model choice. Oral Presentation. American Geophysical Union 2020 Fall Meeting (online). December 2020.
+
+Zhang L, **He MZ**, Perera F, Lovasi G, Clougherty J, Carrión D, Burke K, Kioumourtzoglou M-A: Evaluating the impact of the Clean Heat Program on air pollution levels in New York City. Poster Presentation. International Society for Environmental Epidemiology 2020 Conference (online). August 2020.
 
 #### 2019
 **He MZ**, Kioumourtzoglou M-A, Kinney PL, Fiore A, Jin X, Do V, Liu S, Insaf T, Michalski A: Fine particulate matter and cardiovascular admissions in NY State: an assessment of exposure model choice sensitivity and spatial-temporal effect modification. Oral Presentation. New Applications in the Use of Satellite Data Monitoring for Population Health. Huntsville, Alabama. October 2019.
@@ -81,7 +90,7 @@ Jin X, Fiore A, Civerolo K, Johnson S, Bi J, Liu Y, Martin R, van Donkelaar A, Z
 #### 2018
 Westervelt D, Ma CT, Fiore AM, Kinney PL, **He MZ**, Xing J, Wang S: The impact of emissions scenarios and climate change over China on ozone air quality in China and the United States. Oral Presentation. American Geophysical Union 2016 Fall Meeting, Washington DC. December 2018.
 
-**He MZ**, Li T, Kinney PL, Chen C, Sun Q, Ban J, Wang J, Liu S, Goldsmith J, Kioumourtzoglou M-A: Short- and Intermediate-Term Exposure to NO2 and Mortality: A Multi-County Analysis. Oral Presentation. Columbia University Air Pollution Extremes Workshop, New York, New York. November 2018.
+**He MZ**, Li T, Kinney PL, Chen C, Sun Q, Ban J, Wang J, Liu S, Goldsmith J, Kioumourtzoglou M-A: Short- and Intermediate-Term Exposure to NO~2~ and Mortality: A Multi-County Analysis. Oral Presentation. Columbia University Air Pollution Extremes Workshop, New York, New York. November 2018.
 
 Du Z, **He MZ**, Ban J, Wang Q, Li T. The Research on National Heat Vulnerability Assessment of China. Poster Presentation. International Society for Environmental Epidemiology-Exposure Sciences 2018 Conference, Ottawa, Canada. August 2018.
 
@@ -89,7 +98,6 @@ Du Z, **He MZ**, Ban J, Wang Q, Li T. The Research on National Heat Vulnerabilit
 
 
 #### 2017 and before
-
 Ma C, Westervelt D, Fiore A, Kinney PL, **He MZ**, Rieder H, Wang S, Correa G: Impact of Future Emissions and Climate Change on Surface Ozone over China. Oral Presentation. American Geophysical Union 2017 Fall Meeting, New Orleans, Louisiana. December 2017.
 
 Jin X, Fiore A, Civerolo K, Ku M, Insaf T, Kinney PL, Kioumourtzoglou M-A, **He MZ**, Curci G, Lyapustin A, Wang Y, Martin R, van Donkelaar A: Combining satellite data and CMAQ model to map PM~2.5~ exposure over the Northeast U.S.A. Oral Presentation. NASA Health and Air Quality Applied Sciences Team 3rd Annual Meeting, Palisades, New York. November 2017.
