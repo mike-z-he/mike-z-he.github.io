@@ -7,6 +7,7 @@ title: "Publications"
 ### Peer-Reviewed Articles
 
 #### 2021
+Du H, Liu Y, Shi G, Wang F, **He MZ**, Li T: Associations between Source-Specific Fine Particulate Matter and Mortality and Hospital Admissions in Beijing, China. *Environ Sci Technol* 2021. [[Link](https://pubs.acs.org/doi/10.1021/acs.est.1c07290)]
 
 Zhang L\*, **He MZ\***, Gibson EA, Perera F, Lovasi GS, Clougherty JE, Carrión D, Burke K, Fry D, Kioumourtzoglou M-A: Evaluating the Impact of the Clean Heat Program on Air Pollution Levels in New York City. *Environmental Health Perspectives* 129(12). 2021. [[Link](https://ehp.niehs.nih.gov/doi/full/10.1289/EHP9976)]*\
 \*Co first-authors*
