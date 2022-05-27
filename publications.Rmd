@@ -6,8 +6,17 @@ title: "Publications"
 
 ### Peer-Reviewed Articles
 
+#### 2022
+
+**He MZ**, Kloog I, Just A, Gutiérrez-Avila I, Colicino E, Téllez-Rojo MM, Pizano-Zárate M, Tamayo-Ortiz M, Cantoral A, Soria-Contreras DC, Baccarelli AA, Wright RO, Yitshak-Sade M: Intermediate- and long-term associations between air pollution and ambient temperature and glycated hemoglobin levels in women of child bearing age. *Environment International* 165: 107298. 2022. [[Link]](https://www.sciencedirect.com/science/article/pii/S0160412022002252)
+
+Liu W, **He MZ**, Dambach P, Schwertz R, Chen S, Yu F, Marx M: Trends of overweight and obesity among preschool children from 2013 to 2018: a cross-sectional study in Rhine-Neckar County and the City of Heidelberg, Germany. *BMC Public Health* 22:941. 2022. [[Link]](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-022-13302-w)
+
+Wang Y, Du Y, Fang J, Dong X, Wang Q, Ban J, Sun Q, Ma R, Zhang W, **He MZ**, Liu C, Niu Y, Chen R, Kan H, Li T: A Random Forest Model for Daily PM2.5 Personal Exposure Assessment for a Chinese Cohort. *Environ Sci Technol Lett* 9, 466-472. 2022. [[Link]](https://pubs.acs.org/doi/full/10.1021/acs.estlett.1c00970)
+
+Du H, Liu Y, Shi G, Wang F, **He MZ**, Li T: Associations between Source-Specific Fine Particulate Matter and Mortality and Hospital Admissions in Beijing, China. *Environ Sci Technol* 56, 1174-1182. 2022. [[Link](https://pubs.acs.org/doi/10.1021/acs.est.1c07290)]
+
 #### 2021
-Du H, Liu Y, Shi G, Wang F, **He MZ**, Li T: Associations between Source-Specific Fine Particulate Matter and Mortality and Hospital Admissions in Beijing, China. *Environ Sci Technol* 2021. [[Link](https://pubs.acs.org/doi/10.1021/acs.est.1c07290)]
 
 Zhang L\*, **He MZ\***, Gibson EA, Perera F, Lovasi GS, Clougherty JE, Carrión D, Burke K, Fry D, Kioumourtzoglou M-A: Evaluating the Impact of the Clean Heat Program on Air Pollution Levels in New York City. *Environmental Health Perspectives* 129(12). 2021. [[Link](https://ehp.niehs.nih.gov/doi/full/10.1289/EHP9976)]*\
 \*Co first-authors*
