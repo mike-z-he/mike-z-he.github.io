@@ -6,9 +6,15 @@ title: "Publications"
 
 ### Peer-Reviewed Articles
 
+#### 2023
+
+Nunez Y, Balilian A, Parks RM, **He MZ**, Hansen J, Raaschou-Nielsen O, Ketzel M, Khan J, Vermeulen R, Peters S, Weisskopf MG, Re DB, Kioumourtzoglou M-A: Critical Time Windows in the Association between PM~2.5~ Exposure and Amyotrophic Lateral Sclerosis: A Case-Control Study in Denmark. *Am J Epidemiol*. In press.
+
+Chen C, Li T, Sun Q, Shi W, He MZ, Wang J, Liu J, Zhang M, Jiang Q, Wang M, Shi X: Short-term exposure to ozone and cause-specific mortality risks and thresholds in China: Evidence from nationally representative data, 2013-2018. *Environment International* 171: 107666. 2023. [[Link]](https://www.sciencedirect.com/science/article/pii/S0160412022005931)
+
 #### 2022
 
-Nunez Y, Balilian A, Parks RM, **He MZ**, Hansen J, Raaschou-Nielsen O, Ketzel M, Khan J, Vermeulen R, Peters S, Weisskopf MG, Re DB, Kioumourtzoglou M-A: Critical Time Windows in the Association between PM~2.5~ Exposure and Amyotrophic Lateral Sclerosis: A Case-Control Study in Denmark. *Am J Epidemiol*. 2022.
+Du P, Du H, Lu K, **He MZ**, Feng D, He M, Liu T, Hu J, Li T: Traffic-related PM2.5 and its specific constituents on circulatory mortality: a nationwide modelling study in China. *Environment International* 170: 107652. 2022. [[Link]](https://www.sciencedirect.com/science/article/pii/S0160412022005797)
 
 **He MZ**, Kloog I, Just A, Gutiérrez-Avila I, Colicino E, Téllez-Rojo MM, Pizano-Zárate M, Tamayo-Ortiz M, Cantoral A, Soria-Contreras DC, Baccarelli AA, Wright RO, Yitshak-Sade M: Intermediate- and long-term associations between air pollution and ambient temperature and glycated hemoglobin levels in women of child bearing age. *Environment International* 165: 107298. 2022. [[Link]](https://www.sciencedirect.com/science/article/pii/S0160412022002252)
 
