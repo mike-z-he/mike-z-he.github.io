@@ -10,7 +10,9 @@ title: "Publications"
 
 Nunez Y, Balilian A, Parks RM, **He MZ**, Hansen J, Raaschou-Nielsen O, Ketzel M, Khan J, Vermeulen R, Peters S, Weisskopf MG, Re DB, Kioumourtzoglou M-A: Critical Time Windows in the Association between PM~2.5~ Exposure and Amyotrophic Lateral Sclerosis: A Case-Control Study in Denmark. *Am J Epidemiol*. In press.
 
-Chen C, Li T, Sun Q, Shi W, He MZ, Wang J, Liu J, Zhang M, Jiang Q, Wang M, Shi X: Short-term exposure to ozone and cause-specific mortality risks and thresholds in China: Evidence from nationally representative data, 2013-2018. *Environment International* 171: 107666. 2023. [[Link]](https://www.sciencedirect.com/science/article/pii/S0160412022005931)
+**He MZ**, Yitshak-Sade M, Just AC, Gutiérrez-Avila I, Dorman M, de Hoogh K, Mijling B, Wright RO, Kloog I: Predicting fine-scale daily NO2 over Mexico City using an ensemble modeling approach. *Atmospheric Pollution Research* 14(6): 101763. 2023. [[Link]](https://www.sciencedirect.com/science/article/pii/S1309104223001174)
+
+Chen C, Li T, Sun Q, Shi W, **He MZ**, Wang J, Liu J, Zhang M, Jiang Q, Wang M, Shi X: Short-term exposure to ozone and cause-specific mortality risks and thresholds in China: Evidence from nationally representative data, 2013-2018. *Environment International* 171: 107666. 2023. [[Link]](https://www.sciencedirect.com/science/article/pii/S0160412022005931)
 
 #### 2022
 
@@ -84,6 +86,19 @@ Achey MA, **He MZ**, Akst LM: Vocal Hygiene Habits and Vocal Handicap Among Cons
 <br>
 
 ### Conference Presentations and Posters
+
+#### 2023
+**He MZ**, Yitshak-Sade M, Kloog I: A hybrid spatiotemporal model for estimating daily NO2 concentrations across Israel. Poster Discussion. International Society for Environmental Epidemiology 2023 Conference. Kaohsiung, Taiwan. September 2023.
+
+**He MZ**, Yitshak-Sade M, Kloog I, Just AC, Lesseur C, Quataert SA, Téllez-Rojo MM, Berin MC, Wright RO, Jusko TA, Colicino E: Associations between nitrogen dioxide and routine vaccine antibody levels in children. Oral Presentation. International Society for Environmental Epidemiology North American Chapter Conference 2023. Corvallis, Oregon. June 2023.
+
+Guo B, Zhao C, **He MZ**, Senter C, Zhou Z, Peng J, Li S, Fitzpatrick AL, Lindström S, Stebbins RC, Noppert GA, Li C: Identifying patterns of reported findings on long-term cardiac symptoms of COVID-19: a living systematic review and meta-analysis. Poster Presentation. 2023 Society for Epidemiologic Research Meeting. Portland, Oregon. June 2023.
+
+**He MZ**, Yitshak-Sade M, Kloog I, Just AC, Lesseur C, Quataert SA, Téllez-Rojo MM, Berin MC, Wright RO, Jusko TA, Colicino E: Associations between nitrogen dioxide and routine vaccine antibody levels in children. Poster Presentation. 2023 Clinical Climate Change Conference: Clinical Care for Workers in the Climate Crisis. New York, New York. June 2023.
+
+**He MZ**, Yitshak-Sade M, Kloog I, Just AC, Lesseur C, Quataert SA, Téllez-Rojo MM, Berin MC, Wright RO, Jusko TA, Colicino E: Associations between nitrogen dioxide and routine vaccine antibody levels in children. Poster Presentation. 2023 Mexico-USA Exposome Symposium. Mexico City, Mexico. May 2023.
+
+**He MZ**, Yitshak-Sade M, Kloog I, Just AC, Lesseur C, Quataert SA, Téllez-Rojo MM, Berin MC, Wright RO, Jusko TA, Colicino E: Associations between nitrogen dioxide and routine vaccine antibody levels in children. Oral Presentation. Mount Sinai Child Health Research Day 2023. New York, New York. April 2023.
 
 #### 2022
 
