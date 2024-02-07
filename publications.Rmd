@@ -8,7 +8,9 @@ title: "Publications"
 
 #### 2023
 
-Nunez Y, Balilian A, Parks RM, **He MZ**, Hansen J, Raaschou-Nielsen O, Ketzel M, Khan J, Vermeulen R, Peters S, Weisskopf MG, Re DB, Kioumourtzoglou M-A: Critical Time Windows in the Association between PM~2.5~ Exposure and Amyotrophic Lateral Sclerosis: A Case-Control Study in Denmark. *Am J Epidemiol*. In press.
+Guo B, Zhao C, **He MZ**, Senter C, Zhou Z, Peng J, Li S, Fitzpatrick AL, Lindström S, Stebbins RC, Noppert GA, Li C: Identifying patterns of reported findings on long-term cardiac complications of COVID-19: a systematic review and meta-analysis. *BMC Medicine* 21:468. 2023. [[Link]](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-023-03162-5)
+
+Nunez Y, Balilian A, Parks RM, **He MZ**, Hansen J, Raaschou-Nielsen O, Ketzel M, Khan J, Vermeulen R, Peters S, Weisskopf MG, Re DB, Kioumourtzoglou M-A: Critical Time Windows in the Association between PM~2.5~ Exposure and Amyotrophic Lateral Sclerosis: A Case-Control Study in Denmark. *Am J Epidemiol* 192(9): 1499-1508. 2023. [[Link]](https://academic.oup.com/aje/article/192/9/1499/7135818)
 
 **He MZ**, Yitshak-Sade M, Just AC, Gutiérrez-Avila I, Dorman M, de Hoogh K, Mijling B, Wright RO, Kloog I: Predicting fine-scale daily NO2 over Mexico City using an ensemble modeling approach. *Atmospheric Pollution Research* 14(6): 101763. 2023. [[Link]](https://www.sciencedirect.com/science/article/pii/S1309104223001174)
 
@@ -88,6 +90,9 @@ Achey MA, **He MZ**, Akst LM: Vocal Hygiene Habits and Vocal Handicap Among Cons
 ### Conference Presentations and Posters
 
 #### 2023
+
+Kim JY, **He MZ**: Comparative study of the effect of air pollution and sunlight on the crimes and hate crimes. 2023 American Society of Criminology Annual Meeting. Philadelphia, Pennsylvania. November 2023.
+
 **He MZ**, Yitshak-Sade M, Kloog I: A hybrid spatiotemporal model for estimating daily NO2 concentrations across Israel. Poster Discussion. International Society for Environmental Epidemiology 2023 Conference. Kaohsiung, Taiwan. September 2023.
 
 **He MZ**, Yitshak-Sade M, Kloog I, Just AC, Lesseur C, Quataert SA, Téllez-Rojo MM, Berin MC, Wright RO, Jusko TA, Colicino E: Associations between nitrogen dioxide and routine vaccine antibody levels in children. Oral Presentation. International Society for Environmental Epidemiology North American Chapter Conference 2023. Corvallis, Oregon. June 2023.
